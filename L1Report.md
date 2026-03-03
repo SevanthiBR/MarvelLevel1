@@ -150,6 +150,7 @@ To understand and build a Decision Tree from scratch and perform the fairness an
 Entropy is a measure of uncertainty or impurity in a dataset. It helps determine how mixed the classes are within a node of the decision tree.
 * If all samples in a node belong to the same class, the entropy is low (pure node).
 * If the samples are evenly distributed among different classes, the entropy is high (impure node).
+
 The objective of a decision tree is to reduce entropy at each split, resulting in more homogeneous groups.
 
 This task uses the ID3 (Iterative Dichotomiser 3) algorithm, which relies on entropy for splitting decisions.
@@ -236,5 +237,6 @@ A Confusion Matrix is built using four key components:
 
 
 ---
+
 
 
