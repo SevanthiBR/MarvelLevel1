@@ -143,7 +143,7 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm used for
 
 ## Aim:
 
-To understand and build a Decision Tree from scratch using the utrecht fairness dataset and perform the fairness analysis
+To understand and build a Decision Tree from scratch and perform the fairness analysis
 
 ## Learnings:
 
@@ -236,4 +236,5 @@ A Confusion Matrix is built using four key components:
 
 
 ---
+
 
