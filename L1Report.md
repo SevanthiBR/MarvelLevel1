@@ -102,7 +102,7 @@ The parameters are updated using gradient descent:
 
 ![gradient-descent](https://github.com/SevanthiBR/MarvelLevel1/blob/main/gradient-descent.png?raw=true)
 
-where ( \alpha ) is the learning rate. 
+where (alpha ) is the learning rate. 
 Logistic Regression effectively learns a linear decision boundary and models the log-odds as 
 
 ![](https://github.com/SevanthiBR/MarvelLevel1/blob/main/logisticregg.png?raw=true)
@@ -236,3 +236,4 @@ A Confusion Matrix is built using four key components:
 
 
 ---
+
